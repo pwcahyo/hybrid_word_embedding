@@ -1,0 +1,51 @@
+﻿word_1,word_2,relation_type,category
+bahagia,sedih,antonym,emosi
+senang,murung,antonym,emosi
+gembira,berduka,antonym,emosi
+tenang,gelisah,antonym,kecemasan
+damai,cemas,antonym,kecemasan
+percaya diri,minder,antonym,kepercayaan diri
+optimis,pesimis,antonym,harapan
+bersemangat,lesu,antonym,motivasi
+termotivasi,tidak termotivasi,antonym,motivasi
+berenergi,lelah,antonym,energi
+fokus,terdistraksi,antonym,kognitif
+konsentrasi,sulit berkonsentrasi,antonym,kognitif
+bersyukur,tidak bersyukur,antonym,emosi
+puas,kecewa,antonym,emosi
+nyaman,tidak nyaman,antonym,kenyamanan
+aman,terancam,antonym,rasa aman
+dicintai,tidak dicintai,antonym,relasi sosial
+dihargai,diremehkan,antonym,relasi sosial
+diterima,ditolak,antonym,relasi sosial
+diperhatikan,diabaikan,antonym,relasi sosial
+percaya,curiga,antonym,relasi sosial
+terhubung,terisolasi,antonym,relasi sosial
+bersosialisasi,menyendiri,antonym,relasi sosial
+terbuka,tertutup,antonym,relasi sosial
+berani,takut,antonym,kecemasan
+sabar,tidak sabar,antonym,regulasi emosi
+stabil,tidak stabil,antonym,regulasi emosi
+terkendali,tidak terkendali,antonym,regulasi emosi
+rasional,irasional,antonym,kognitif
+fleksibel,kaku,antonym,adaptasi
+adaptif,maladaptif,antonym,adaptasi
+produktif,tidak produktif,antonym,aktivitas
+tidur nyenyak,insomnia,antonym,tidur
+istirahat cukup,kurang istirahat,antonym,tidur
+nafsu makan normal,kehilangan nafsu makan,antonym,nafsu makan
+berharap,putus asa,antonym,harapan
+menghargai diri,membenci diri,antonym,penghargaan diri
+menerima diri,menolak diri,antonym,penerimaan diri
+menghormati diri,merendahkan diri,antonym,penghargaan diri
+berdaya,tidak berdaya,antonym,keberdayaan
+mandiri,bergantung,antonym,kemandirian
+antusias,apatis,antonym,motivasi
+peduli,tidak peduli,antonym,relasi sosial
+santai,tegang,antonym,stres
+rileks,stres,antonym,stres
+bahagia menjalani hidup,kehilangan minat hidup,antonym,minat hidup
+memiliki tujuan,kehilangan arah,antonym,tujuan hidup
+berpikir positif,berpikir negatif,antonym,pola pikir
+emosi stabil,emosi tidak stabil,antonym,regulasi emosi
+mampu mengendalikan emosi,kesulitan mengendalikan emosi,antonym,regulasi emosi
